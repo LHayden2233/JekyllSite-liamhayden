@@ -1,15 +1,10 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /about/
+portrait:
+  src: https://via.placeholder.com/256
+  alt: "Liam Hayden"
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue lorem eget massa feugiat, eu eleifend justo mattis. Proin elementum ante vitae efficitur commodo.

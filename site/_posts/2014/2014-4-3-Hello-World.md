@@ -1,12 +1,10 @@
 ---
-layout: post
-title: You're up and running!
+layout: about
+title: Projects
 ---
 
-Yay! This is a Sample Post! You can edit it using Markdown!
+This is a liam hayden test post
 
-# THIS IS A HEADER
-
-**this is bold**
+# Project title
 
 ![image](/images/step1.gif)

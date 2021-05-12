@@ -1,0 +1,15 @@
+---
+layout: default 
+---
+
+<article>
+  <div class="portrait">
+    <img src="{{page.portrait.src}}" alt="{{page.portrait.alt}}">
+  </div>
+  <h1>{{ page.title }}</h1>
+  {{content}}
+</article>
+<section class="contact">
+  <h2>Contact</h2>
+  {% include svg-icons.html %}
+</section>

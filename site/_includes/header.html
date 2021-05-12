@@ -1,0 +1,18 @@
+<header>
+  <div class="container">
+    <div class="logo">
+      <a href="{{site.baseurl}}/">Liam</a>
+    </div>
+    <nav> 
+      <ul>
+        {% for link in site.nav-links %}
+          {% if link.url == page.url %}
+          <li class="current"><a href="#">{{link.text}}</a></li>
+          {% else %}
+          <li><a href="{{link.url}}">{{link.text}}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
