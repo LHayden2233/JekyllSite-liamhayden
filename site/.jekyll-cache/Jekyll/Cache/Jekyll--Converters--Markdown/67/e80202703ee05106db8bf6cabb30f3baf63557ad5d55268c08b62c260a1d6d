@@ -1,0 +1,6 @@
+I"%<section class="gallery" data-masonry="{ &quot;itemSelector&quot;: &quot;.grid-item&quot;, &quot;columnWidth&quot;: &quot;.grid-sizer&quot;, &quot;gutter&quot;: &quot;.gutter-sizer&quot;, &quot;resize&quot;: true }">
+<div class="grid-sizer"></div>
+<div class="gutter-sizer"></div>
+
+</section>
+:ET

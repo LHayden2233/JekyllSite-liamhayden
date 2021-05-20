@@ -1,0 +1,42 @@
+I"B<section class="gallery" data-masonry="{ &quot;itemSelector&quot;: &quot;.grid-item&quot;, &quot;columnWidth&quot;: &quot;.grid-sizer&quot;, &quot;gutter&quot;: &quot;.gutter-sizer&quot;, &quot;resize&quot;: true }">
+<div class="grid-sizer"></div>
+<div class="gutter-sizer"></div>
+
+  <div class="grid-item ">
+    <img src="/images/IMG_3347.jpeg" alt="Photo of Liam outside of store (kenya)" />
+  </div>
+
+  <div class="grid-item ">
+    <img src="/images/.jpg" alt="Photo of The Chonks at the factory" />
+  </div>
+
+  <div class="grid-item grid-item-2">
+    <img src="https://via.placeholder.com/400x200" alt="placeholder image" />
+  </div>
+
+  <div class="grid-item ">
+    <img src="https://via.placeholder.com/200" alt="placeholder image" />
+  </div>
+
+  <div class="grid-item ">
+    <img src="https://via.placeholder.com/200" alt="placeholder image" />
+  </div>
+
+  <div class="grid-item grid-item-2">
+    <img src="https://via.placeholder.com/400x200" alt="placeholder image" />
+  </div>
+
+  <div class="grid-item grid-item-2">
+    <img src="https://via.placeholder.com/200" alt="placeholder image" />
+  </div>
+
+  <div class="grid-item ">
+    <img src="https://via.placeholder.com/200" alt="placeholder image" />
+  </div>
+
+  <div class="grid-item ">
+    <img src="https://via.placeholder.com/400x200" alt="placeholder image" />
+  </div>
+
+</section>
+:ET
